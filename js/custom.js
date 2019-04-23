@@ -12,7 +12,7 @@ $(window).on('load',function(){
 
 	
 	typed = new Typed('.type', {
-            strings: ["Computer Engineer", "SCET", "Graphic Designer"], 
+            strings: ["Computer Engineer", "Web Developer", "Graphic Designer"], 
             typeSpeed: 100,
             loop: true,
             backDelay: 1200,
