@@ -1,0 +1,150 @@
+.img-home{
+	border-radius: 50%;
+	position: relative;
+	margin: auto;
+ }
+ .data-about{
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+ .cont-home{
+ 	position: absolute;
+ 	top: 35%;
+ 	left: 45%;
+
+ }
+ .cont-main{
+ 	left: -30px;
+ 	position: absolute;
+ 	z-index: 100;
+ 	width: 300px;
+ }
+ .cont-about{
+	padding-left: 20px;
+	box-shadow: 2px 2px 20px #00000010;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 100px;
+	padding: 20px 40px;
+}
+
+.cont-name-dis1{
+	color: black;
+	letter-spacing: 1px;
+}
+.cont-name-dis2{
+	font-size: 13px;
+	color: black;
+	letter-spacing: 1px;
+	padding-left: 20px;
+	margin-right: 35px;
+}
+.cont-name-div2
+{
+	border-bottom: 1px solid brown;
+	padding: 10px;
+}
+.cont-contact-div-2
+{
+	border-bottom: 1px solid brown;
+	margin-top: 20px;
+	padding-bottom: 10px;
+}
+.resume-div{
+	margin: 20px 0;
+	font-family: Times New Roman;
+	/*font-family: Calibri;*/
+}
+.table2 td{
+	padding: 10px;
+	font-family: Times New Roman;
+}
+.edu-table{
+	margin-top: 20px;
+}
+.skill-table{
+	margin-top: 10px;
+}
+.skill-table td{
+	padding:2px 15px;
+}
+.cont-tech-text{
+	margin-top: 20px;
+}
+.list1
+{
+font-family: Times New Roman;
+padding-top: 10px;
+	
+}
+.list1 li{
+	padding-top: 10px;
+}
+
+
+
+ .home1
+{
+background-image: url("./img/bg.jpg");
+background-repeat : no-repeat;
+background-position : center center;
+background-size : cover;
+filter: blur(4px);
+height: 500px;
+z-index: -1;
+}
+.div2
+{
+ position : fixed;
+ top : 75%;
+ left : 65%;
+ z-index : 100;
+}
+.div1
+{
+position : fixed;
+height : 100%;
+width : 100%;
+ z-index : 100;
+
+}
+.div3
+{
+position : fixed;
+  top : 53%;
+  left :66%;
+  z-index : 100;
+}
+.img{
+
+ border-radius: 50%;
+	border : 3px solid black;
+}
+.list{ 
+	list-style: none;
+	flex-direction : row;
+	display: flex;
+    }
+.title-info{
+	max-width: 150px;
+	width: 100%;
+	display: inline-block;
+	font-size: 15px;
+}
+.title-info2
+{
+	font-size: 15px;
+}
+.font
+{
+	font-family: Times New Roman;
+	color: White;
+	font-size: 40px;
+	font-style: bold;
+}
+.font1
+{
+	font-family: Times New Roman;
+	color: White;
+	font-size: 20px;
+}
